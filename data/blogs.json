@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "The History of Film Making",
+    "image": "image_1.jpg",
+    "author": "Admin",
+    "date": "June 21, 2019",
+    "label": "Cinematography is the illusion of movement by the recording and subsequent rapid projection of many still photographic pictures on a screen.",
+    "content": {
+      "tags": ["History", "Cinema"],
+      "paragraphs": {
+        "p-1": "",
+        "p-2": ""
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Sir Charles Spencer Chaplin",
+    "image": "image_2.jpg",
+    "author": "Admin",
+    "date": "June 21, 2019",
+    "label": "The English comic actor, filmmaker, and composer who rose to fame in the era of silent film.",
+    "content": {
+      "tags": ["Cinema", "Actors", "Personage", "Comedy"],
+      "paragraphs": {
+        "p-1": "",
+        "p-2": ""
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cinema VS Theater",
+    "image": "image_3.jpg",
+    "author": "Admin",
+    "date": "June 21, 2019",
+    "label": "\"Theatre is confined to a logical or continuous use of space. Cinemahas access to an alogical or discontinuous use of space.\" <br> BY : 'susan sontag'",
+    "content": {
+      "tags": ["Comparing", "Cinema", "Debate", "Theatre"],
+      "paragraphs": {
+        "p-1": "",
+        "p-2": ""
+      }
+    }
+  }
+]
