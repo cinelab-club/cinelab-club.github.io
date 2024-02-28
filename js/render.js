@@ -1,5 +1,5 @@
 const blogTemplate = (data) => {
-    return `<div class="col-md-4 d-flex ftco-animate">
+    return `<div class="col-md-4 d-flex">
     <div class="blog-entry">
         <a href="single.html?${data.id}" class="block-20" style="background-image: url('images/${data.image}');">
         </a>
